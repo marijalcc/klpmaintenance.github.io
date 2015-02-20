@@ -1,0 +1,28 @@
+.cdt {
+border-right: #800020
+ 5px solid; border-top: #800020
+ 5px solid; right: 0px; border-left: #800020
+ 5px solid; bottom: 0px; border-bottom: #800020
+ 5px solid; position: relative;}
+
+ .style{
+ color: #ffffff;
+ background-color: #800020;
+ height: 30px;
+ font-family: Verdana;
+ font-size: 25px;
+ letter-spacing: 2px;
+ }
+
+ .linestyle { border-top: #800020
+  1px solid; border-bottom: black
+  1px solid; }
+
+
+
+body{
+  background-color: #c0ffff;
+  background-image: url("luxfon.com_4664.jpg");
+  font-size:15px; color: #ffffff; line-height: 25px;
+  font-family: Arial, sans-serif;
+}
